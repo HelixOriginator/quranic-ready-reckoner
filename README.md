@@ -22,8 +22,7 @@ This ready reckoner serves as a quick reference guide for students, researchers,
 
 ## Screenshot
 
-![Quranic Ready Reckoner Screenshot](screenshot.png)  
-*(Replace with an actual screenshot of the app once added to the repository)*
+![Quranic Ready Reckoner Screenshot](screenshot.png)
 
 **Website**: https://brilliant-strudel-f430ee.netlify.app/
 
