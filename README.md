@@ -25,18 +25,25 @@ This ready reckoner serves as a quick reference guide for students, researchers,
 ![Quranic Ready Reckoner Screenshot](screenshot.png)  
 *(Replace with an actual screenshot of the app once added to the repository)*
 
+**Website**: https://brilliant-strudel-f430ee.netlify.app/
+
 ## Created By
 
 **Kallol Chakrabarti**  
 *Global Independent Researcher*
 
-## Tech Stack
+## Contributing
 
-- HTML5, CSS3, and Vanilla JavaScript (lightweight single-page application)
-- Deployed via Netlify (source can be adapted for GitHub Pages)
+Contributions, suggestions, and corrections are welcome! Please:
+- Open an issue for discussions
+- Submit pull requests with improvements (e.g., additional verses, better styling, or enhanced search functionality)
 
-## Installation & Local Setup
+Ensure all additions maintain a respectful, academic, and evidence-based tone.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/quranic-ready-reckoner.git
+## License
+
+This project is open-source and available for educational use. Feel free to fork and adapt.
+
+---
+
+*This tool is intended solely for academic and educational purposes. It reflects independent research and does not represent any official interpretation.*
